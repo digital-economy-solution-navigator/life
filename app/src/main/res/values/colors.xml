@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Hello App Colors -->
+    <color name="hello_blue">#FF2196F3</color>
+    <color name="welcome_green">#FF4CAF50</color>
+    <color name="primary_blue">#FF1976D2</color>
+    <color name="accent_green">#FF388E3C</color>
 </resources>
